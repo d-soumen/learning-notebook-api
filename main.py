@@ -34,6 +34,15 @@ notes=[
             "data"
         ],
         "learned":True,
+    },
+
+    {
+        "id":4,
+        "term":"f_string",
+        "definition":"A python string literal",
+        "js-equivalent":"concat",
+        "tags":["python"],
+        "learned":True,
     }
 ]
 
